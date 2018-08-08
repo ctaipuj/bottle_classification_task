@@ -1,7 +1,7 @@
 # Bottle Classification Task (Deprecated)
 Here you can find a computer vision algorithm designed to classify three polymers: Colored HDPE, HDPE/PS and Green colored PET. Using *OpenCV* libraries and a kinect sensor. 
 
-This code is only used for evaluation purposes. Please refer to [https://github.com/ctaipuj/lenny_vision](*lenny_vision*) for further information.
+This code is only used for evaluation purposes. Please refer to [https://github.com/ctaipuj/lenny_vision](lenny_vision) for further information.
 
 +++++THIS CODE IS UNSTABLE+++++
 
